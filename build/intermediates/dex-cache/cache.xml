@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/463ea5177fcc3cbb430b9cf5e9768269d9205d0c/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_419233bb6c04cedd7bc8d6bbd7a91fc1bfdddeac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/463ea5177fcc3cbb430b9cf5e9768269d9205d0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42a7e6014a0fbb6e6fe2566114dea76c8b7c1c99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/bbe2d334d1a0662391aa5e996ab09be1818379d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d5d809c657cca8b3232aa82287ed095f3c5f9b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_4fe656ccf492d24d43ed258db3704352ca03246f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/305b79e6a912ef85547275da70d1e91581b0c4b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a1975f18fcc815d7320d3ec9d24643d2f141fe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/91e768f85418bb0330903902038e740ef18b93f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c6f7037c970eec1437115522efec0ae5f6742d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4930a4205a2aee9042f642d04cf03a82367bbb4">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_910ebf0cc1c51cad7a0e0fe3b1a663bcaf7a283b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01771e902b8a5bdaadd9c4786ddc005b150772c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/2d40f0a5621d59335e1d13baec40ed04219bab60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6e307ecca3b151f11b8a50b2e9b81b754fe4b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pauriccarroll/.android/build-cache/0a117e6bd5a973425d13e6caa7e1401decdea5ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/pauriccarroll/Desktop/courtcounter/pauric/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93d998af83ae63eca92bfb1fd09ec484ed84fd7e/classes.dex" />
+    </item>
+
+</items>
